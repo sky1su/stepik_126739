@@ -17,4 +17,4 @@ poetry install
 ```
 > информация по установке, настройке и работе с менеджером пакетов poetry на [сайте проекта](https://python-poetry.org/docs/)
 
-> для работы с блонотом рекоммендую использовать [Visual Studio Code](https://code.visualstudio.com) с установленным [плагином](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) для работы с блокнотами jupyter 
+> Рекомендую использовать [Visual Studio Code](https://code.visualstudio.com) с установленным [плагином](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) для работы с блокнотами jupyter 
